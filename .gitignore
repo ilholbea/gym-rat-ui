@@ -1,0 +1,6 @@
+cli_screenshots
+.idea
+*.iml
+.vscode
+node_modules/
+dist/
